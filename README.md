@@ -1,4 +1,3 @@
-[github_profile_readme.md](https://github.com/user-attachments/files/34958471/github_profile_readme.md)
 ## Hi there 👋
 
 <!--
@@ -99,17 +98,6 @@ I am an **AI/ML Engineer, Agentic AI Architect, and Data Scientist** based in **
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rutvik995&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutvik995&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rutvik995&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
 ---
 
 ### 🤝 Let's Connect!
@@ -120,13 +108,4 @@ I'm always open to discussing **Agentic AI architectures, LLM orchestration, Dat
 - 💼 **LinkedIn:** [linkedin.com/in/rutvikbhanderi](https://www.linkedin.com/in/rutvikbhanderi)
 - 📧 **Email:** [rutvik.professional@gmail.com](mailto:rutvik.professional@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:1e293b,100:0f172a&height=100&section=footer" width="100%" />
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
